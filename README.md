@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Brian Morara. I am an Information Technology(IT) student at Maseno University.
+- I do frontend freelancing at the moment
 - 👀 I’m interested in full stack development, blockchain and new ideas.
-- 📫 You can reach me via twitter👉🏿👉🏿@he_is_Brian or call me/ whatsapp me on )0797766167.
 
 <!---
 BrianMorara/BrianMorara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
