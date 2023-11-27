@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Brian Morara. I am an aspiring blockchain developer.
+- 👋 Hi, my name is Brian Morara. I am an aspiring SEO specialist and blockchain developer.
 
 <!---
 BrianMorara/BrianMorara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
